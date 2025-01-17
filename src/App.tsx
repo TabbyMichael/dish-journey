@@ -5,6 +5,8 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Header } from "./components/Header";
 import { Footer } from "./components/Footer";
+import { Suspense } from "react";
+import { Loading } from "./components/ui/loading";
 import Index from "./pages/Index";
 import RecipeDetails from "./pages/RecipeDetails";
 import Auth from "./pages/Auth";
@@ -20,11 +22,13 @@ const App = () => (
         <div className="flex flex-col min-h-screen">
           <Header />
           <main className="flex-grow">
-            <Routes>
-              <Route path="/" element={<Index />} />
-              <Route path="/recipe/:id" element={<RecipeDetails />} />
-              <Route path="/auth" element={<Auth />} />
-            </Routes>
+            <Suspense fallback={<Loading />}>
+              <Routes>
+                <Route path="/" element={<Index />} />
+                <Route path="/recipe/:id" element={<RecipeDetails />} />
+                <Route path="/auth" element={<Auth />} />
+              </Routes>
+            </Suspense>
           </main>
           <Footer />
         </div>
