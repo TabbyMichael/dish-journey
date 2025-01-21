@@ -1,9 +1,9 @@
 # Dish Journey
 
-![App Screenshot](assets/Screenshot 2025-01-21 at 13.45.10.png)
-![Feature 1](assets/Screenshot 2025-01-21 at 13.45.29.png)
-![Feature 2](assets/Screenshot 2025-01-21 at 13.45.39.png)
-![Feature 2](assets/Screenshot 2025-01-21 at 13.45.49.png)
+![App Screenshot](https://raw.githubusercontent.com/TabbyMichael/dish-journey/main/assets/Screenshot%202025-01-21%20at%2013.45.10.png)
+![Feature 1](https://raw.githubusercontent.com/TabbyMichael/dish-journey/main/assets/Screenshot%202025-01-21%20at%2013.45.29.png)
+![Feature 2](https://raw.githubusercontent.com/TabbyMichael/dish-journey/main/assets/Screenshot%202025-01-21%20at%2013.45.39.png)
+![Feature 2](https://raw.githubusercontent.com/TabbyMichael/dish-journey/main/assets/Screenshot%202025-01-21%20at%2013.45.49.png)
 
 ## About
 Dish Journey is a web application that...
