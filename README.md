@@ -1,4 +1,29 @@
-# Welcome to your Lovable project
+# Dish Journey
+
+![App Screenshot](assets/Screenshot 2025-01-21 at 13.45.10.png)
+![Feature 1](assets/Screenshot 2025-01-21 at 13.45.29.png)
+![Feature 2](assets/Screenshot 2025-01-21 at 13.45.39.png)
+![Feature 2](assets/Screenshot 2025-01-21 at 13.45.49.png)
+
+## About
+Dish Journey is a web application that...
+
+## Features
+- Feature 1 description
+- Feature 2 description
+- Feature 3 description
+
+## Installation
+```bash
+npm install
+npm run dev
+```
+
+## Contributing
+Pull requests are welcome...
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Project info
 
@@ -24,13 +49,13 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/TabbyMichael/dish-journey
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd dish-journey
 
 # Step 3: Install the necessary dependencies.
-npm i
+npm install
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
