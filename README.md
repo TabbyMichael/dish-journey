@@ -1,94 +1,101 @@
-# Dish Journey
+# Dish Journey 🍽️
 
-![App Screenshot](https://raw.githubusercontent.com/TabbyMichael/dish-journey/main/assets/Screenshot%202025-01-21%20at%2013.45.10.png)
-![Feature 1](https://raw.githubusercontent.com/TabbyMichael/dish-journey/main/assets/Screenshot%202025-01-21%20at%2013.45.29.png)
-![Feature 2](https://raw.githubusercontent.com/TabbyMichael/dish-journey/main/assets/Screenshot%202025-01-21%20at%2013.45.39.png)
-![Feature 2](https://raw.githubusercontent.com/TabbyMichael/dish-journey/main/assets/Screenshot%202025-01-21%20at%2013.45.49.png)
+![App Screenshot](public/assets/Screenshot 2025-01-21 at 13.45.10.png)
+![Feature 1](public/assets/Screenshot 2025-01-21 at 13.45.29.png)
+![Feature 2](public/assets/Screenshot 2025-01-21 at 13.45.49.png)
+![Feature 3](public/assets/Screenshot 2025-01-21 at 13.45.39.png)
 
-## About
-Dish Journey is a web application that...
+## About 📖
+Dish Journey is a web application that brings the joy of cooking to your fingertips! It's your personal culinary companion, designed to help you discover, save, and share delicious recipes from around the world. Whether you're a seasoned chef or just starting your cooking adventure, Dish Journey makes exploring new flavors and techniques fun and accessible.
 
-## Features
-- Feature 1 description
-- Feature 2 description
-- Feature 3 description
+## Features ✨
+- **Recipe Discovery**: Browse through a vast collection of curated recipes from various cuisines and skill levels
+- **Smart Search**: Find recipes by ingredients, cuisine type, cooking time, or dietary restrictions
+- **Interactive Cooking Mode**: Step-by-step cooking instructions with timers and ingredient checklist
+- **Personal Recipe Box**: Save your favorite recipes and create custom collections
+- **Community Sharing**: Share your cooking experiences and connect with other food enthusiasts
 
-## Installation
+## Tech Stack 🛠️
+This project is crafted with modern technologies for the best development experience:
+
+- Vite - Lightning fast build tool
+- TypeScript - For type-safe code
+- React - UI framework
+- shadcn-ui - Beautiful and accessible components
+- Tailwind CSS - Utility-first CSS framework
+
+## Installation 🚀
+
 ```bash
+# Install dependencies
 npm install
+
+# Start development server
 npm run dev
 ```
 
-## Contributing
-Pull requests are welcome...
+## Usage Guide 📱
+1. **Browse Recipes**: Explore the homepage to discover featured recipes
+2. **Search**: Use the search bar to find specific recipes or filter by categories
+3. **View Details**: Click on any recipe to see detailed instructions and ingredients
+4. **Save Favorites**: Create an account to save your favorite recipes
+5. **Share**: Share recipes with friends through social media integration
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Contributing 🤝
+We love contributions! Here's how you can help:
 
-## Project info
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
+## License 📄
+[MIT](https://choosealicense.com/licenses/mit/) - Feel free to use this project for your own purposes!
+
+## Project Info 🔍
 **URL**: https://lovable.dev/projects/8b1c511d-1d78-4198-93ac-3f4819a070ae
 
-## How can I edit this code?
+## Development Options 💻
 
-There are several ways of editing your application.
+### Use Lovable
+Visit the [Lovable Project](https://lovable.dev/projects/8b1c511d-1d78-4198-93ac-3f4819a070ae) to start developing with AI assistance. Changes are automatically committed to the repository.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/8b1c511d-1d78-4198-93ac-3f4819a070ae) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+### Local Development
+Requirements: Node.js & npm - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# Clone the repository
 git clone https://github.com/TabbyMichael/dish-journey
 
-# Step 2: Navigate to the project directory.
+# Navigate to project directory
 cd dish-journey
 
-# Step 3: Install the necessary dependencies.
+# Install dependencies
 npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+### Direct GitHub Editing
+- Navigate to the file you want to edit
+- Click the pencil icon (Edit)
+- Make your changes
+- Commit directly to the repository
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### GitHub Codespaces
+1. Go to the repository's main page
+2. Click "Code" (green button)
+3. Select "Codespaces"
+4. Click "New codespace"
 
-**Use GitHub Codespaces**
+## Deployment 🌐
+Deploy your project easily through [Lovable](https://lovable.dev/projects/8b1c511d-1d78-4198-93ac-3f4819a070ae) - just click Share -> Publish.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Custom Domain Setup 🌍
+While custom domains aren't directly supported yet, you can deploy to Netlify for this feature. Check our [Custom domains documentation](https://docs.lovable.dev/tips-tricks/custom-domain/) for detailed instructions.
 
-## What technologies are used for this project?
+---
 
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/8b1c511d-1d78-4198-93ac-3f4819a070ae) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+⭐ Don't forget to star this repository if you find it helpful! ⭐
