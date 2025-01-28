@@ -1,12 +1,12 @@
 # Dish Journey 🍽️
 
-![App Screenshot](public/assets/Screenshot 2025-01-21 at 13.45.10.png)
-![Feature 1](public/assets/Screenshot 2025-01-21 at 13.45.29.png)
-![Feature 2](public/assets/Screenshot 2025-01-21 at 13.45.49.png)
-![Feature 3](public/assets/Screenshot 2025-01-21 at 13.45.39.png)
+![Dish Journey](./public/assets/Screenshot%202025-01-21%20at%2013.45.10.png)
 
 ## About 📖
 Dish Journey is a web application that brings the joy of cooking to your fingertips! It's your personal culinary companion, designed to help you discover, save, and share delicious recipes from around the world. Whether you're a seasoned chef or just starting your cooking adventure, Dish Journey makes exploring new flavors and techniques fun and accessible.
+
+![Dish Journey](./public/assets/Screenshot%202025-01-21%20at%2013.45.29.png)
+
 
 ## Features ✨
 - **Recipe Discovery**: Browse through a vast collection of curated recipes from various cuisines and skill levels
@@ -14,6 +14,9 @@ Dish Journey is a web application that brings the joy of cooking to your fingert
 - **Interactive Cooking Mode**: Step-by-step cooking instructions with timers and ingredient checklist
 - **Personal Recipe Box**: Save your favorite recipes and create custom collections
 - **Community Sharing**: Share your cooking experiences and connect with other food enthusiasts
+
+![Dish Journey](./public/assets/Screenshot%202025-01-21%20at%2013.45.49.png)
+
 
 ## Tech Stack 🛠️
 This project is crafted with modern technologies for the best development experience:
