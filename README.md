@@ -1,9 +1,16 @@
 # Dish Journey 🍽️
 
+
 ![App Screenshot](public/assets/Screenshot 2025-01-21 at 13.45.10.png)
 ![Feature 1](public/assets/Screenshot 2025-01-21 at 13.45.29.png)
 ![Feature 2](public/assets/Screenshot 2025-01-21 at 13.45.49.png)
 ![Feature 3](public/assets/Screenshot 2025-01-21 at 13.45.39.png)
+=======
+![App Screenshot](assets/App Screenshot.png)
+![Feature 1](assets/Feature 1.png)
+![Feature 2](assets/Feature 2.png)
+![Feature 3](assets/Feature 3.png)
+
 
 ## About 📖
 Dish Journey is a web application that brings the joy of cooking to your fingertips! It's your personal culinary companion, designed to help you discover, save, and share delicious recipes from around the world. Whether you're a seasoned chef or just starting your cooking adventure, Dish Journey makes exploring new flavors and techniques fun and accessible.
